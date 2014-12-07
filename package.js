@@ -1,6 +1,6 @@
 Package.describe({
   summary: 'a FORKED revision of Google maps for meteor, originally by ServiceLocale',
-  version: '0.9.5',
+  version: '0.9.6',
   name: 'chenroth:googlemaps-api',
   git: 'https://github.com/ChenRoth/GoogleMaps-API'
 });
