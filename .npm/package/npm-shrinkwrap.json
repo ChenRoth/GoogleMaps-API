@@ -1,7 +1,7 @@
 {
   "dependencies": {
-    "googlemaps": {
-      "version": "0.1.20",
+    "chenroth-googlemaps": {
+      "version": "0.1.22",
       "dependencies": {
         "request": {
           "version": "2.2.9"

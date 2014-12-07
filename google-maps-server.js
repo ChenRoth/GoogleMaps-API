@@ -1,4 +1,4 @@
-GoogleMaps = Npm.require("googlemaps");
+GoogleMaps = Npm.require("chenroth-googlemaps");
 
 /*
 // Configure Settings like this

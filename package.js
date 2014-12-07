@@ -1,11 +1,11 @@
 Package.describe({
   summary: 'a FORKED revision of Google maps for meteor, originally by ServiceLocale',
-  version: '0.9.4',
+  version: '0.9.5',
   name: 'chenroth:googlemaps-api',
   git: 'https://github.com/ChenRoth/GoogleMaps-API'
 });
 
-Npm.depends({'chenroth-googlemaps':'0.1.20'});
+Npm.depends({'chenroth-googlemaps':'0.1.22'});
 
 Package.onUse(function(api) {
   api.versionsFrom('METEOR@0.9.2');
